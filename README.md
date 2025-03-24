@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ahmadhassanch-dev
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Agentic AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Whatsapp +92 478429600
+- 😄 Pronouns: حسن / हसन
+- ⚡ Fun fact: Nothing xD
 
 <!---
 ahmadhassanch-dev/ahmadhassanch-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
